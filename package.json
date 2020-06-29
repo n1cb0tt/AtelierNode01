@@ -1,0 +1,23 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "Atelier NodeJs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Nico",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n1cb0tt/wilders.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n1cb0tt/wilders/issues"
+  },
+  "homepage": "https://github.com/n1cb0tt/wilders#readme"
+}
